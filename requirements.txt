@@ -2,3 +2,5 @@ transformers
 torch
 datasets
 tenseal
+cryptography
+numpy
